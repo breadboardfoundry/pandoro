@@ -6,6 +6,7 @@ Dedicated GPU systems with fixed monthly pricing and complete hardware transpare
 
 **We're looking for early research partners.** If you run ML experiments and have struggled with compute access, we'd love to chat.
 
+Contact: hello@breadboardfoundry.com
 
 
 ## The Problem We See
@@ -78,7 +79,7 @@ We're working with a small group of research teams to deploy initial infrastruct
 
 We’d love to learn about your compute requirements and discuss how Pandoro could support your work.
 
-📧 Contact: hello at breadboardfoundry dot com
+📧 Contact: hello@breadboardfoundry.com
 
 We're particularly interested in understanding:
 
